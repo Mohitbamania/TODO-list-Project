@@ -10,8 +10,8 @@
             <th>ID</th>
             <th>First Name</th>
             <th>Last Name</th>
-            <th>Mobile Number</th>
             <th>E-mail Id</th>
+            <th>Mobile Number</th>
             <th>Edit</th>
             <th>Delete</th>
         </tr>
