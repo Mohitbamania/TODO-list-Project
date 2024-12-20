@@ -1,0 +1,29 @@
+table {
+  border: 2px solid black;
+  border-radius: 5px;
+  text-align: center;
+}
+.title {
+  text-align: center;
+  background-color: #333;
+  letter-spacing: 2px;
+  padding: 20px;
+  color: #fff;
+  font-weight: 500;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.box1 h2 {
+  float: left;
+}
+.box1 button {
+  float: right;
+}
+.container {
+  margin-top: 50px;
+}
+input {
+  margin: 10px;
+}
+.message {
+  text-align: center;
+}
